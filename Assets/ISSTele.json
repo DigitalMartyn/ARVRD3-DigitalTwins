@@ -1,0 +1,127 @@
+{
+    "solar_panels": [
+        {
+            "panel_id": "Panel_01",
+            "temperature": 25.6,
+            "status": true
+        },
+        {
+            "panel_id": "Airlock002",
+            "temperature": 26.3
+        },
+        {
+            "panel_id": "Airlock003",
+            "temperature": 24.8
+        },
+        {
+            "panel_id": "Airlock004",
+            "temperature": 124.8
+        },
+        {
+            "panel_id": "Airlock005",
+            "temperature": 27.1
+        },
+        {
+            "panel_id": "Airlock006",
+            "temperature": 23.9
+        },
+        {
+            "panel_id": "Airlock007",
+            "temperature": 25.4
+        },
+        {
+            "panel_id": "Airlock008",
+            "temperature": 26.7
+        },
+        {
+            "panel_id": "Airlock009",
+            "temperature": 24.2
+        },
+        {
+            "panel_id": "Airlock010",
+            "temperature": 25.8
+        },
+        {
+            "panel_id": "Airlock011",
+            "temperature": 26.5
+        },
+        {
+            "panel_id": "Airlock012",
+            "temperature": 24.9
+        },
+        {
+            "panel_id": "Airlock013",
+            "temperature": 27.3
+        },
+        {
+            "panel_id": "Airlock014",
+            "temperature": 23.7
+        },
+        {
+            "panel_id": "Airlock015",
+            "temperature": 25.6
+        },
+        {
+            "panel_id": "Airlock016",
+            "temperature": 26.8
+        },
+        {
+            "panel_id": "Airlock017",
+            "temperature": 24.1
+        },
+        {
+            "panel_id": "Airlock018",
+            "temperature": 25.9
+        },
+        {
+            "panel_id": "Airlock019",
+            "temperature": 26.6
+        },
+        {
+            "panel_id": "Airlock020",
+            "temperature": 24.7
+        },
+        {
+            "panel_id": "Airlock021",
+            "temperature": 27.2
+        },
+        {
+            "panel_id": "Airlock022",
+            "temperature": 23.8
+        },
+        {
+            "panel_id": "Airlock023",
+            "temperature": 25.5
+        },
+        {
+            "panel_id": "Airlock024",
+            "temperature": 26.9
+        },
+        {
+            "panel_id": "Airlock025",
+            "temperature": 24.3
+        },
+        {
+            "panel_id": "Airlock026",
+            "temperature": 25.7
+        },
+        {
+            "panel_id": "Airlock027",
+            "temperature": 26.4
+        },
+        {
+            "panel_id": "Airlock028",
+            "temperature": 24.6
+        },
+        {
+            "panel_id": "Airlock029",
+            "temperature": 27.4
+        },
+        {
+            "panel_id": "Airlock030",
+            "temperature": 23.6
+        }
+    ]
+}
+
+
