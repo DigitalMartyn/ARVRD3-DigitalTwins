@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DigitalTwins.sln"
+    "dotnet.defaultSolution": "ARVRD3 DigitalTwins_To clean.sln"
 }

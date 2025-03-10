@@ -6,8 +6,9 @@
             "status": true
         },
         {
-            "panel_id": "Airlock002",
-            "temperature": 26.3
+            "panel_id": "HelloWorld",
+            "temperature": 26.3,
+            "status": true
         },
         {
             "panel_id": "Airlock003",
